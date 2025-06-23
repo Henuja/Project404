@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 
 function Section1(props) {
   const ingredientList = props.ingeredient.map((item, idx) => (
